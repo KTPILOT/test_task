@@ -1,0 +1,4 @@
+#Tue Dec 21 18:41:18 IST 2021
+base.0=/home/codetrade/Documents/test_task_product-main/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
